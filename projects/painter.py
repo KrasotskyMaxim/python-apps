@@ -1,8 +1,12 @@
 from kivy.app import App 
+
 from kivy.uix.widget import Widget
 from kivy.uix.button import Button
+
 from kivy.graphics import (Color, Line, Rectangle, Ellipse)
+
 from kivy.core.window import Window
+
 from random import random
 
 
