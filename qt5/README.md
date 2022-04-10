@@ -2,7 +2,7 @@
 
 ## It is a simple one window program that I wrote using PyQt5.
 
-![app](/ui/app-screen.png)
+![app](./ui/app-screen.png)
 
 ## Run
 -----------
