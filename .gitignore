@@ -1,1 +1,5 @@
-/venv/
+# folders
+venv/
+
+# scripts
+activate-venv.bat
